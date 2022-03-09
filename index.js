@@ -1,5 +1,7 @@
 const AWS = require('aws-sdk');
 
+//TEST
+
 const dynamo = new AWS.DynamoDB.DocumentClient();
 
 /**
